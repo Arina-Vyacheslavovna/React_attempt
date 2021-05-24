@@ -1,0 +1,19 @@
+.logout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10vh;
+    font-family: "Inter";
+}
+
+
+.logout_btn {
+    min-width: 250px;
+    padding: 10px;
+    margin: 10px;
+    background: black;
+    color: white;
+    font-size: 18px;
+    font-family: "Inter";
+}
